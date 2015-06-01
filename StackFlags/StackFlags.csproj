@@ -48,7 +48,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\StackExchangeWebClient\StackExchange.Frontend.csproj">
+    <ProjectReference Include="..\StackExchange.Frontend\StackExchange.Frontend.csproj">
       <Project>{b7dddf0b-2135-4baf-a6ac-d3cca10c845d}</Project>
       <Name>StackExchange.Frontend</Name>
     </ProjectReference>
